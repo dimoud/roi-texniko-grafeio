@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Τεχνικό Γραφείο Μουδιώτης — Ενημερώσεις επίσημων πηγών</title>
+    <link>https://dimoud.github.io/roi-texniko-grafeio/</link>
+    <description>ΥΜΕ (Δελτία Τύπου, ενότητες οχημάτων), Διαύγεια ΥΠΟΜΕ, Εθνικό Μητρώο Διοικητικών Διαδικασιών — μόνο θεματικά σχετικά ευρήματα</description>
+    <language>el</language>
+    <lastBuildDate>Tue, 17 Nov 2026 11:56:09 +0200</lastBuildDate>
+    <item>
+      <title>[ΥΜΕ — ενότητες οχημάτων · συνημμένο που έλειπε από τη βιβλιοθήκη] ΔΤΟ οικ. 133183/13-08-2026: τροποποίηση/συμπλήρωση/διευκρίνιση επί του 102330/2026 (Στ1, θόρυβος Παρ. Ι, ομαδοποίηση GSR-II Γ΄ Φάση για τέλος σειράς)</title>
+      <link>https://www.yme.gov.gr/metafores/texnologia-oximaton/periorismoi-taksinomisis-oximaton/item/download/8201_c04397438595c227e39a68ed20b1021f</link>
+      <guid isPermaLink="false">e5ac84394058565c</guid>
+      <pubDate>Mon, 16 Nov 2026 15:14:08 +0200</pubDate>
+      <category>ΥΜΕ — ενότητες οχημάτων</category>
+      <description>Εντοπίστηκε 16/11/2026· σημείωμα: claude/dto-133183-2026-tropopoiisi-102330-periorismoi.md</description>
+    </item>
+    <item>
+      <title>[ΥΜΕ — ενότητες οχημάτων · πρόσφατη τροποποίηση σελίδας] Αδειοδότηση Ιδιωτικών ΚΤΕΟ</title>
+      <link>https://www.yme.gov.gr/metafores/texnikos-elegxos-egkatastaseis-eksypiretisis-oximaton/texnikos-elegxos-oximaton/adeiodotisi-prodiagrafes-kteo/item/8535-adeiodotisi-idiotikon-kteo</link>
+      <guid isPermaLink="false">ca51f54e89c2c9fb</guid>
+      <pubDate>Mon, 16 Nov 2026 15:14:02 +0200</pubDate>
+      <category>ΥΜΕ — ενότητες οχημάτων</category>
+      <description>Αδειοδότηση Ιδιωτικών ΚΤΕΟ</description>
+    </item>
+  </channel>
+</rss>

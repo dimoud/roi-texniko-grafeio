@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="2.0">
+  <head><title>Τεχνικό Γραφείο Μουδιώτης — ροές</title><dateCreated>Tue, 17 Nov 2026 11:56:09 +0200</dateCreated></head>
+  <body>
+    <outline text="Επίσημες πηγές" title="Επίσημες πηγές">
+      <outline type="rss" text="Τεχνικό Γραφείο Μουδιώτης — Ενημερώσεις επίσημων πηγών" title="Τεχνικό Γραφείο Μουδιώτης — Ενημερώσεις επίσημων πηγών" xmlUrl="https://dimoud.github.io/roi-texniko-grafeio/roi.xml" htmlUrl="https://dimoud.github.io/roi-texniko-grafeio/"/>
+      <outline type="rss" text="ΥΜΕ — Δελτία Τύπου" title="ΥΜΕ — Δελτία Τύπου" xmlUrl="https://www.yme.gov.gr/2013-01-31-06-37-23/2013-01-31-07-00-49?format=feed&amp;type=rss&amp;limit=50" htmlUrl="https://www.yme.gov.gr/2013-01-31-06-37-23/2013-01-31-07-00-49"/>
+    </outline>
+  </body>
+</opml>
