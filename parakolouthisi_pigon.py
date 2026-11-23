@@ -345,7 +345,8 @@ def mitos_selida(href):
     m = re.search(r'id="mw-content-text"(.*?)<div class="printfooter"', s, re.S)
     k = keimeno_html(m.group(1) if m else s)
     imer = re.search(r"Τελευταία ενημέρωση\s*(\d{2}/\d{2}/\d{4})", k)
-    ousia = re.sub(r"Τελευταία ενημέρωση\s*\d{2}/\d{2}/\d{4}", "", k)
+    # 23/11/2026: το Μητρώο δείχνει πλέον «Τελευταία ενημέρωση —» χωρίς ημερομηνία· εξαιρείται κι αυτή η μορφή
+    ousia = re.sub(r"Τελευταία ενημέρωση\s*(?:\d{2}/\d{2}/\d{4}|[—–-])?", "", k)
     kd = re.search(r"[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}\s+(\d{6})\b", k[:600])
     return {"keimeno": k, "imerominia": imer.group(1) if imer else "", "hash": h(ousia),
             "kodikos": kd.group(1) if kd else ""}
